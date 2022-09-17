@@ -9,11 +9,15 @@ Desenvolvido especificamente para o TCC de conclusão de curso, este site respon
 Agradecimentos especias aos meus colegas de desenvolvimento:
 
 João: Desenvolvedor front-end
+
 Igor: pesquisador
+
+
 
 Nelson: designer
 
 #----------------------------------------------------------#
 
 Agradecimentos extras:
+
 Vitor(rato): desenvolvedor back-end
